@@ -1,0 +1,45 @@
+body {
+  background:  	#ADD8E6;
+}
+
+#contenedor, #tabs, #perfil, #newfeed, #msg, #tabs-1, #tabs-2 {
+  border: 2px solid #777;
+}
+#contenedor {
+  overflow: auto;
+  width: 90%;
+  margin: 0 auto;
+}
+
+#tabs {
+  overflow: auto;
+  background: #E6E6FA;
+}
+
+#perfil {
+  margin-top: 15px;
+  margin-right: 10px;
+  float:left;
+  width: 30%;
+  background: WhiteSmoke;
+}
+
+#newfeed {
+    margin-right: 10px;
+    background: LightCyan;
+    margin-bottom: 0px;
+    text-align: center;
+    color: MediumTurquoise;
+}
+
+#msg {
+    margin-right: 10px;
+    background: WhiteSmoke;
+    margin-top: 0px;
+}
+
+#tabs-1, #tabs-2 {
+  margin-top: 15px;
+  float: left;
+  width: 40%;
+}
