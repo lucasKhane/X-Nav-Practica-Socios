@@ -1,0 +1,44 @@
+{"mensajes": [
+    {
+        "Autor": "Nacho Acosta",
+        "Avatar": "/images/nachoacosta.jpg",
+        "Titulo": "No se quien soy",
+        "Contenido": "Vamos a construir parte del interfaz de usuario de la aplicacion Socios, una nueva red social. En particular, vamos a representar en el navegador la informacion que nos va a llegar en varios documentos JSON",
+        "Fecha": "19/04/2016"
+    },
+    {
+        "Autor": "Miguel Rios",
+        "Avatar": "/images/miguelrios.jpeg",
+        "Titulo": "Timeline del usuario:",
+        "Contenido": "mensajes de sus socios, segun listado en timeline.json. Ademas, una vez mostrados estos mensajes, se buscar ́a update.json. Si tiene alguna noticia, se mostrar ́a una nota al principio del timeline indicando el numero de mensajes pendientes. Cuando se pulse en esa nota, se desplegaran los mensajes pendientes que estaban en update.json.",
+        "Fecha": "20/04/2016"
+    },
+    {
+        "Autor": "Suachenegger",
+        "Avatar": "/images/arnold.jpg",
+        "Titulo": "Fecha de revision:",
+        "Contenido": "martes, 29 de junio de 2014 a las 13:00. Se requerira a algunos alumnos que asistan a la revision en persona; se informar ́a de ello en el mensaje de publicacion de notas.",
+        "Fecha": "21/04/2016"
+    },
+    {
+        "Autor": "Otro señor",
+        "Avatar": "/images/gregorio2.jpg",
+        "Titulo": "Cualquier biblioteca JavaScript",
+        "Contenido": "que pueda hacer falta para que la aplicacion funcione, junto con los ficheros auxiliares que utilice, si es que los utiliza.",
+        "Fecha": "22/04/2016"
+    },
+    {
+        "Autor": "Gregorio",
+        "Avatar": "/images/gregorio1.jpg",
+        "Titulo": "Nombre de su cuenta",
+        "Contenido": "Cualquier biblioteca JavaScript que pueda hacer falta para que la aplicacion funcione, junto con los ficheros auxiliares que utilice, si es que los utiliza.",
+        "Fecha": "22/04/2016"
+    },
+    {
+        "Autor": "Robles",
+        "Avatar": "/images/robles.jpeg",
+        "Titulo": "Lista de funcionalidades",
+        "Contenido": "URL del vıdeo demostraci ́on de la funcionalidad optativa, si se ha realizado funcionalidad optativa",
+        "Fecha": "18/04/2016"
+    }
+]}
