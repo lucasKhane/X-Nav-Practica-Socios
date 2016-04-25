@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Practica socios. Asignatura DAT2016</title>
-  <author>Daniel Rodríguez Cabello</author>
+  <meta name="author" content="Daniel Rodríguez Cabello">
   <link rel="stylesheet" href="/external/jquery-ui.css">
   <script src="/external/jquery.js"></script>
   <script src="/external/jquery-ui.js"></script>
@@ -19,8 +19,10 @@
             <li><a href="#tabs-2">Mensajes</a></li>
           </ul>
           <div id="perfil">
-            <div id="fotoperfil">
-              <p>Foto Cara</p>
+            <div id="fotofondo">
+              <div id="fotocara">
+                  <img src="/images/fotoperfil.jpeg" alt="fotoperfil.jpeg" style="width:150px;height:150px;">
+              </div>
             </div>
             <p id="mensajes">Has escrito x mensajes->por hacer</p>
             <p id="socios">Tienes x socios->Por hacer</p>
@@ -28,7 +30,7 @@
           </div>
           <div id="tabs-1">
             <p id="newfeed">Ver mensajes nuevos...</p>
-            <p id="msg"> Aqui van todos los mensajes de socios</p>
+            <p id="msg"></p>
           </div>
           <div id="tabs-2">
             <p>Aquí van todos los mensajes escritos por mi</p>

@@ -5,6 +5,17 @@ $(function() {
 });
 
 $(document).ready(function() {
+  $.getJSON( "timeline.json", function( data ) {
+    var item = "";
+    $.each(data.mensajes, function( key, val ) {
+      console.log(val.Autor);
+      $( "#msg" ).prepend( "<p id='"+key+"'>"+val.Autor+"</p>" );
+      //item =  "<li id='"+key+"'>" + val.Autor + "</li>" );
+    });
+
+
+  });
+
     $.ajax({
       type: "GET",
 	    url: "text.txt",
