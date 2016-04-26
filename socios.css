@@ -56,6 +56,10 @@ body {
     height: auto;
 }
 
+h3, h5 {
+  margin: 0px;
+}
+
 #tabs-1, #tabs-2 {
   margin-top: 15px;
   float: left;
