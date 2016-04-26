@@ -1,0 +1,63 @@
+{"mensajes": [
+    {
+        "Autor": "Nacho Acosta",
+        "Avatar": "/images/nachoacosta.jpg",
+        "Titulo": "ENAMORADOS",
+        "Contenido": "- Amor, quiero que pasemos un lindo fin de semana.
+                      - Ok, nos vemos el lunes... ",
+        "Fecha": "19/04/2016"
+    },
+    {
+        "Autor": "Suachenegger",
+        "Avatar": "/images/arnold.jpg",
+        "Titulo": "Timeline del usuario:",
+        "Contenido": "TRABAJO
+                    - Oye, pues mi hijo en su nuevo trabajo se siente como pez en el agua.
+                    - ¿Qué hace?
+                    - Nada... ",
+        "Fecha": "20/04/2016"
+    },
+    {
+        "Autor": "Suachenegger",
+        "Avatar": "/images/arnold.jpg",
+        "Titulo": "INGENIEROS:",
+        "Contenido": "Tres ingenieros y el diseño del cuerpo humano.
+                    - Obviamente, es una obra de un ingeniero mecánico, fíjate en las articulaciones, en los huesos de la mano, en...
+                    - No hombre, fue un ingeniero eléctrico, sino como explicamos el sistema nervioso, en lo complejo que es el cerebro, en...
+                    - Nah, tíos, ni idea, lo hizo un ingeniero civil; a nadie mas se le ocurre poner un desagüe toxico al lado de un área recreativa. ",
+        "Fecha": "21/04/2016"
+    },
+    {
+        "Autor": "Suachenegger",
+        "Avatar": "/images/arnold.jpg",
+        "Titulo": "SOY....El gobernador!!!",
+        "Contenido": "Un ingeniero agrónomo recién licenciado vuelve a la granja de su
+                      padre, y se da una vuelta con el.
+                      - Mira, papa, estas trabajando con unos métodos demasiado anticuados
+                      que hacen que tu producción sea demasiado baja. Por ejemplo, a que no puedes
+                      conseguir siquiera diez kilos de manzanas de cada uno de estos árboles ?
+                      - Claro que no, hijo. Esto son naranjos. ",
+        "Fecha": "22/04/2016"
+    },
+    {
+        "Autor": "Gregorio",
+        "Avatar": "/images/gregorio1.jpg",
+        "Titulo": "Gregorio's laughts!",
+        "Contenido": "Llega un ingeniero al trabajo y se encuentra a un colega y le dice: - ¡No sabes lo que me ha pasado!
+                      - ¿Qué?
+                      - Iba por la calle y una chica en bicicleta se ha parado delante de mi, se ha desnudado y me ha dicho toma lo que quieras.
+                      - Y ¿Qué has hecho?
+                      - Me he llevado la bici.
+                      - Bien hecho, problablemente la ropa te habría quedado pequeña.",
+        "Fecha": "22/04/2016"
+    },
+    {
+        "Autor": "Gregorio",
+        "Avatar": "/images/gregorio1.jpg",
+        "Titulo": "El mejor",
+        "Contenido": "Un Psicólogo le pregunta a un Ingeniero:
+                      ¿Como ve este vaso, medio lleno o medio vacio?
+                      Lo que veo es que es el doble de grande de lo necesario... ",
+        "Fecha": "18/04/2016"
+    }
+]}

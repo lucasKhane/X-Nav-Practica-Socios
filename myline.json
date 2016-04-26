@@ -1,0 +1,59 @@
+{"mensajes": [
+    {
+        "Autor": "Daniel Rodriguez",
+        "Avatar": "/images/fotoperfil.jpeg",
+        "Titulo": "Primer mensaje",
+        "Contenido": "Due to browser security restrictions, most requests are subject to the same origin policy; the request can not successfully retrieve data from a different domain, subdomain, port, or protocol",
+        "Fecha": "19/04/2016"
+    },
+    {
+        "Autor": "Daniel Rodriguez",
+        "Avatar": "/images/fotoperfil.jpeg",
+        "Titulo": "Mensaje escrito hace un mes",
+        "Contenido": "Script and JSONP requests are not subject to the same origin policy restrictions. ",
+        "Fecha": "20/04/2016"
+    },
+    {
+        "Autor": "Daniel Rodriguez",
+        "Avatar": "/images/fotoperfil.jpeg",
+        "Titulo": "Mensaje escrito hace dos meses",
+        "Contenido": "  var flickerAPI = http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?;
+                        $.getJSON( flickerAPI, {
+                          tags: mount rainier,
+                          tagmode: any,
+                          format: json
+                        })",
+        "Fecha": "21/04/2016"
+    },
+    {
+        "Autor": "Daniel Rodriguez",
+        "Avatar": "/images/fotoperfil.jpeg",
+        "Titulo": "Mensaje escrito hace tres meses",
+        "Contenido": "Load the JSON data from test.js, passing along additional data, and access a name from the returned JSON data. If an error occurs, log an error message instead.",
+        "Fecha": "22/04/2016"
+    },
+    {
+        "Autor": "Daniel Rodriguez",
+        "Avatar": "/images/fotoperfil.jpeg",
+        "Titulo": "Venga penultimo mensaje de mentira",
+        "Contenido": "Vamos a construir parte del interfaz de usuario de la aplicación Socios, una nueva red social. En particular, vamos a representar en el navegador la información que nos va a llegar en varios documentos JSON. Para simular lo suficiente para poder realizar la interfaz de usuario, estos documentos JSON serán ficheros estáticos que se servirán al navegador con el resto de la aplicación, que estará compuesta por un fichero HTML, otro JavaScript y otro CSS. Detalles del enunciado en el programa de la asignatura.",
+        "Fecha": "22/04/2016"
+    },
+    {
+        "Autor": "Daniel Rodriguez",
+        "Avatar": "/images/fotoperfil.jpeg",
+        "Titulo": "Con este último ya vale",
+        "Contenido": " 	external 	Css hecho en gran medida. Fatal meter lo del perfil y poco más 	2 days ago
+                      	images 	Css valido para entregar y funcion getJson. Faltan el resto de get.JS… 	a day ago
+                      	README.md 	Voy a subir una primera version que aun no hace nada 	2 days ago
+                      	README.md~ 	Voy a subir una primera version que aun no hace nada 	2 days ago
+                      	index.html 	Css valido para entregar y funcion getJson. Faltan el resto de get.JS… 	a day ago
+                      	myline.json 	Voy a subir una primera version que aun no hace nada 	2 days ago
+                      	socios.css 	Voy restando cosas. Faltan el resto de get.JSON, Optimizar la forma d… 	14 minutes ago
+                      	socios.js 	Voy restando cosas. Faltan el resto de get.JSON, Optimizar la forma d… 	14 minutes ago
+                      	timeline.json 	Voy a subir una primera version que aun no hace nada 	2 days ago
+                      	update.json 	Voy a subir una primera version que aun no hace nada 	2 days ago
+                      ",
+        "Fecha": "24/04/2016"
+    }
+]}
