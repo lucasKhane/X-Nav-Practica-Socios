@@ -65,3 +65,7 @@ h3, h5 {
   float: left;
   width: 40%;
 }
+
+#pie_de_pagina {
+  text-align: center;
+}
