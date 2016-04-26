@@ -49,7 +49,7 @@ body {
     color: MediumTurquoise;
 }
 
-#msg {
+#timeline, #myline {
     margin-right: 10px;
     background: WhiteSmoke;
     margin-top: 0px;
