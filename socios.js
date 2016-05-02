@@ -1,3 +1,5 @@
+var newsocio = [];
+
 $(function() {
   $( "#tabs" ).tabs({
     collapsible: false
@@ -7,11 +9,12 @@ $(function() {
 
 var getNumMsg = function(){
   var c = document.getElementById("myline").childNodes.length;
+  $( "#mensajes" ).html( "<b>Mensajes escritos: </b>"+c);
   console.log(c);
 }
 
 var getNumSocios = function(){
-
+  $( "#socios" ).html("<b>Socios: </b>"+newsocio.length);
 }
 
 var getNumAsociados = function(){
@@ -33,6 +36,9 @@ var putmsgs = function(docJSON, tag){
           "<h3><b>"+val.Autor+"</b> - "+val.Titulo+" - "+val.Fecha+"</h3>"+
           "<h5>"+val.Contenido+"</h5>"+
         "</div>" );
+        if (newsocio.indexOf(val.Autor) == -1){
+          newsocio.push(val.Autor);
+        };
 
         $("#"+key).css("margin","20px");
         $("#"+key).css("margin-bottom","10px");
