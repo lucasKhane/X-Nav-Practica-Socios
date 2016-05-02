@@ -4,6 +4,20 @@ $(function() {
   });
 });
 
+
+var getNumMsg = function(){
+  var c = document.getElementById("myline").childNodes.length;
+  console.log(c);
+}
+
+var getNumSocios = function(){
+
+}
+
+var getNumAsociados = function(){
+
+}
+
 var putmsgs = function(docJSON, tag){
   console.log(docJSON);
   $.getJSON(docJSON, function( data ) {
@@ -28,7 +42,19 @@ var putmsgs = function(docJSON, tag){
         $("#"+key+" img").css("margin","5px");
     });
   }).done(function( text ) {
-      console.log("Documento leido");
+      switch (tag) {
+        case "#timeline":
+              getNumSocios()
+          break;
+        case "#myline":
+              getNumMsg();
+          break;
+        case "#update":
+              getNumSocios();
+          break;
+        default:
+
+      }
   })
   .fail(function( text ) {
       console.log("HAY UN PROBLEMA");
